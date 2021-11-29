@@ -4,7 +4,7 @@ const defaultTheme: DefaultTheme = {
   title: 'default',
 
   colors: {
-    background: '#312e38',
+    background: 'white',
     white: '#f4ede8',
     orange: '#FF9000',
     grayHard: '#666360',

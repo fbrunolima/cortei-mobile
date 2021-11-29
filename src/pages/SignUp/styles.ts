@@ -13,7 +13,7 @@ export const Container = styled.View`
 
 export const Title = styled.Text`
   font-size: 24px;
-  color: ${({ theme }) => theme.colors.white};
+  color: #03a9f4;
   font-family: ${({ theme }) => theme.fonts.medium};
   margin: 64px 0 24px;
 `;

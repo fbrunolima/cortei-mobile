@@ -1,17 +1,17 @@
 {
   "images" : [
     {
-      "filename" : "GoBarber.png",
+      "filename" : "cortei.png",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "GoBarber@2x.png",
+      "filename" : "cortei@2x.png",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "GoBarber@3x.png",
+      "filename" : "cortei@3x.png",
       "idiom" : "universal",
       "scale" : "3x"
     }

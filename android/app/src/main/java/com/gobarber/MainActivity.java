@@ -1,4 +1,4 @@
-package com.gobarber;
+package com.cortei;
 
 import com.facebook.react.ReactActivity;
 import org.devio.rn.splashscreen.SplashScreen;
@@ -14,6 +14,6 @@ public class MainActivity extends ReactActivity {
 
   @Override
   protected String getMainComponentName() {
-    return "gobarber";
+    return "cortei";
   }
 }

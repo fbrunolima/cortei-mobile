@@ -1,31 +1,31 @@
 <h1 align="center">
-  <img alt="Logo" src="https://res.cloudinary.com/eliasgcf/image/upload/v1588625369/GoBarber/logo_iw1v9f.svg" width="200px">
+  <img alt="Logo" src="https://res.cloudinary.com/eliasgcf/image/upload/v1588625369/cortei/logo_iw1v9f.svg" width="200px">
 </h1>
 
 <h3 align="center">
-  React Native Application for GoBarber project
+  React Native Application for cortei project
 </h3>
 
 <p align="center">The best way to schedule your service!</p>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/EliasGcf/gobarber-mobile?color=%23FF9000">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/EliasGcf/cortei-mobile?color=%23FF9000">
 
   <a href="https://www.linkedin.com/in/eliasgcf/" target="_blank" rel="noopener noreferrer">
     <img alt="Made by" src="https://img.shields.io/badge/made%20by-elias%20gabriel-%23FF9000">
   </a>
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/EliasGcf/gobarber-mobile?color=%23FF9000">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/EliasGcf/cortei-mobile?color=%23FF9000">
 
-  <a href="https://github.com/EliasGcf/gobarber-mobile/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/EliasGcf/gobarber-mobile?color=%23FF9000">
+  <a href="https://github.com/EliasGcf/cortei-mobile/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/EliasGcf/cortei-mobile?color=%23FF9000">
   </a>
 
-  <a href="https://github.com/EliasGcf/gobarber-mobile/issues">
-    <img alt="Repository issues" src="https://img.shields.io/github/issues/EliasGcf/gobarber-mobile?color=%23FF9000">
+  <a href="https://github.com/EliasGcf/cortei-mobile/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/EliasGcf/cortei-mobile?color=%23FF9000">
   </a>
 
-  <img alt="GitHub" src="https://img.shields.io/github/license/EliasGcf/gobarber-mobile?color=%23FF9000">
+  <img alt="GitHub" src="https://img.shields.io/github/license/EliasGcf/cortei-mobile?color=%23FF9000">
 </p>
 
 <p align="center">
@@ -40,8 +40,8 @@
 
 Soon
 
-To see the **api**, click here: [GoBarber Rest API](https://github.com/EliasGcf/gobarber-api)</br>
-To see the **web client**, click here: [GoBarber Web](https://github.com/EliasGcf/gobarber-web)
+To see the **api**, click here: [cortei Rest API](https://github.com/EliasGcf/cortei-api)</br>
+To see the **web client**, click here: [cortei Web](https://github.com/EliasGcf/cortei-web)
 
 ## 🚀 Technologies
 
@@ -67,12 +67,12 @@ Technologies that I used to develop this mobile client
 
 ### Requirements
 
-- Have this application's [API](https://github.com/EliasGcf/gobarber-api) running
+- Have this application's [API](https://github.com/EliasGcf/cortei-api) running
 
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/EliasGcf/gobarber-mobile.git && cd gobarber-mobile
+$ git clone https://github.com/EliasGcf/cortei-mobile.git && cd cortei-mobile
 ```
 
 **Follow the steps below**
@@ -99,14 +99,14 @@ $ yarn ios
 # Fork using GitHub official command line
 # If you don't have the GitHub CLI, use the web site to do that.
 
-$ gh repo fork EliasGcf/gobarber-mobile
+$ gh repo fork EliasGcf/cortei-mobile
 ```
 
 **Follow the steps below**
 
 ```bash
 # Clone your fork
-$ git clone your-fork-url && cd gobarber-mobile
+$ git clone your-fork-url && cd cortei-mobile
 
 # Create a branch with your feature
 $ git checkout -b my-feature

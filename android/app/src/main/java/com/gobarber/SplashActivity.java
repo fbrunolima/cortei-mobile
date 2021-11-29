@@ -1,4 +1,4 @@
-package com.gobarber;
+package com.cortei;
 
 import android.content.Intent;
 import android.os.Bundle;

@@ -20,14 +20,14 @@ export const Header = styled.View`
 `;
 
 export const HeaderTitle = styled.Text`
-  color: ${({ theme }) => theme.colors.white};
+  color: #03a9f4;
   font-size: 20px;
   font-family: ${({ theme }) => theme.fonts.regular};
   line-height: 28px;
 `;
 
 export const UserName = styled.Text`
-  color: ${({ theme }) => theme.colors.orange};
+  color: #03a9f4;
   font-family: ${({ theme }) => theme.fonts.medium};
 `;
 
@@ -46,7 +46,7 @@ export const ProvidersList = styled(FlatList as new () => FlatList<Provider>)`
 export const ProvidersListTitle = styled.Text`
   font-size: 24px;
   margin-bottom: 24px;
-  color: ${({ theme }) => theme.colors.white};
+  color: #03a9f4;
   font-family: ${({ theme }) => theme.fonts.medium};
 `;
 
